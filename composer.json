@@ -1,0 +1,11 @@
+{
+    "name": "rafalfilipek/profilerserviceprovider",
+    "description": "Profiler Extension for Silex",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rafal Filipek",
+            "email": "rafal.filipek@gmail.com"
+        }
+    ]
+}
