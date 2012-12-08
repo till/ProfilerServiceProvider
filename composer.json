@@ -2,6 +2,9 @@
     "name": "rafalfilipek/profilerserviceprovider",
     "description": "Profiler Extension for Silex",
     "license": "MIT",
+    "autoload": {
+        "classmap": [ "Twig/" ]
+    },
     "authors": [
         {
             "name": "Rafal Filipek",
